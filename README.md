@@ -24,7 +24,9 @@ Todos os arquivos foram feitos com dedicação e atenção aos detalhes — desd
 | 03   | Imagens e links | [Ver projeto](./03-imagens-e-links/index.html) |
 | 04   | Listas (ordenadas e não ordenadas) | [Ver projeto](./04-listas/index.html) |
 | 05   | Comentários, quebras de linha e linhas horizontais | [Ver projeto](./05-comentarios-e-quebras/index.html) |
-| 06+  | *(Em andamento)* Tabelas, formulários, semântica e muito mais! | Em breve... |
+| 06   | Tabelas |[Ver projeto](./06-tabela-estudo/index.html) |
+| 07   | Formulários | [Ver projeto](./07-formulario-cadastro/index.html) |
+| 08+  | *(Em andamento)* | Em breve... |
 
 ## ✨ O que você vai encontrar aqui:
 
