@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulário</title>
+</head>
+<body>
+    <h1>cadastro do usuário</h1>
+    <form>
+        <label for="nome">Digite seu nome:</label><br>
+        <input type="text" id="nome" name="nome"><br><br>
+
+        <label for="email">Digite o seu E-mail:</label><br>
+        <input type="email" id="email" name="email"><br><br>
+
+        <label for="senha">Digite seua senha:</label><br>
+        <input type="password" id="senha" name="senha"><br><br>
+
+        <p>Qual seu gênero?</p>
+        <input type="radio" id="feminino" name="genero" value="feminino">
+        <label for="feminino">Feminino</label>
+
+        <input type="radio" id="masculino" name="genero" value="masculino">
+        <label for="masculino">Masculino</label>
+
+        <input type="radio" id="outro" name="genero" value="outro">
+        <label for="outro">Outro</label><br><br>
+
+        <input type="checkbox" id="novidade" name="novidade">
+        <label for="novidade">Deseja receber novidades?</label><br><br>
+        
+        <input type="submit" id="btn-enviar" name="btn-enviar" value="Enviar">
+    </form>
+</body>
+</html>
