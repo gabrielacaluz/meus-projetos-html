@@ -26,7 +26,9 @@ Todos os arquivos foram feitos com dedicação e atenção aos detalhes — desd
 | 05   | Comentários, quebras de linha e linhas horizontais | [Ver projeto](./05-comentarios-e-quebras/index.html) |
 | 06   | Tabelas | [Ver projeto](./06-tabela-estudo/index.html) |
 | 07   | Formulários | [Ver projeto](./07-formulario-cadastro/index.html) |
-| 08+  | *(Em andamento)* | Em breve... |
+| 08   | Folha de estilo | [Ver projeto](./08-estilo-inicial/index.html) |
+| 09   | Classe e ID | [Ver projeto](./09-classes-e-ids/index.html) |
+| 10+  | *(Em andamento)* | Em breve... |
 
 ## ✨ O que você vai encontrar aqui:
 
