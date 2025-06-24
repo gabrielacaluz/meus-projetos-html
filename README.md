@@ -28,7 +28,8 @@ Todos os arquivos foram feitos com dedicação e atenção aos detalhes — desd
 | 07   | Formulários | [Ver projeto](./07-formulario-cadastro/index.html) |
 | 08   | Folha de estilo | [Ver projeto](./08-estilo-inicial/index.html) |
 | 09   | Classe e ID | [Ver projeto](./09-classes-e-ids/index.html) |
-| 10+  | *(Em andamento)* | Em breve... |
+| 10   | estilização de liks e listas| [Ver projeto](./10-links-e-listas/index.html) |
+| 11+  | *(Em andamento)* | Em breve... |
 
 ## ✨ O que você vai encontrar aqui:
 
